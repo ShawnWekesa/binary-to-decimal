@@ -12,4 +12,10 @@ for(i = temp.length - 1; i >= 0; i--){
 	exponent++
 }
 
-console.log(decimalValue)
+// console.log(decimalValue)
+
+//decimal to binary
+let targetDecimal = 20
+let suggestedExponent = 0
+let binaryArray = []
+
